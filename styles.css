@@ -2,4 +2,5 @@ h2{
     color: aquamarine;
     text-align: center;
     size: 50px;
+    min-height: 15px;
 }
